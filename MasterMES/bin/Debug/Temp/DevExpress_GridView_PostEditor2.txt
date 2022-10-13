@@ -1,0 +1,10 @@
+1. GridLookUpEdit, SearchLookUpEdit는 아무 이벤트 없이 정상 적용됨
+
+2. TextEdit, SpinEdit는 셀에 값을 강제로 넣고 다음 소스 처리 
+   특히 SpinEdit의 경우 강제로 셀값을 변경하지 않으면 값을 입력 후 빠르게 Enter키를 입력하면 값이 사라짐
+   if (grvInput.PostEditor())
+       grvInput.UpdateCurrentRow();
+
+   CheckEdit는 별도로 설정값을 변경하지 않고 PostEditor 확인 후 UpdateCurrentRow 만으로 값 변경
+
+3. SpinEdit는 위의 처리를 하고 난 다음 계산 처리

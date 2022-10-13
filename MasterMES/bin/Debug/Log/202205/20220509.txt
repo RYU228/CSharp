@@ -1,0 +1,376 @@
+2022-05-09 14:46:13	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 12:33:17.799 / EndTime:2022-05-09 14:46:13.505
+2022-05-09 14:46:13	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 14:46:13	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 13:13:31.167 / EndTime:2022-05-09 14:46:13.561
+2022-05-09 14:46:13	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 14:46:13	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 12:33:01.373 / EndTime:2022-05-09 14:46:13.579
+2022-05-09 14:46:13	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:15:41	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:15:27.982 / EndTime:2022-05-09 15:15:41.509
+2022-05-09 15:15:41	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:23:41	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:23:34.314 / EndTime:2022-05-09 15:23:41.221
+2022-05-09 15:23:41	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:23:41	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:23:22.171 / EndTime:2022-05-09 15:23:41.249
+2022-05-09 15:23:41	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:25:36	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:25:36.481 / EndTime:2022-05-09 15:25:36.843
+2022-05-09 15:25:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:25:45	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:25:36.297 / EndTime:2022-05-09 15:25:45.547
+2022-05-09 15:25:45	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:25:52	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:25:30.857 / EndTime:2022-05-09 15:25:52.241
+2022-05-09 15:25:52	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:27:29	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:27:29.071 / EndTime:2022-05-09 15:27:29.430
+2022-05-09 15:27:29	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:27:38	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 15:27:34.868 / EndTime:2022-05-09 15:27:38.700
+2022-05-09 15:27:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:27:44	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 15:27:44.362 / EndTime:2022-05-09 15:27:44.845
+2022-05-09 15:27:44	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:28:16	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:28:16.010 / EndTime:2022-05-09 15:28:16.290
+2022-05-09 15:28:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:28:26	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:27:28.793 / EndTime:2022-05-09 15:28:26.259
+2022-05-09 15:28:26	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:28:26	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:27:19.646 / EndTime:2022-05-09 15:28:26.289
+2022-05-09 15:28:26	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:32:49	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:32:49.234 / EndTime:2022-05-09 15:32:49.602
+2022-05-09 15:32:49	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:32:59	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:32:59.185 / EndTime:2022-05-09 15:32:59.505
+2022-05-09 15:32:59	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:32:59	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 15:32:58.745 / EndTime:2022-05-09 15:32:59.564
+2022-05-09 15:32:59	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:33:07	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:33:07.187 / EndTime:2022-05-09 15:33:07.490
+2022-05-09 15:33:07	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:33:32	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:32:49.049 / EndTime:2022-05-09 15:33:32.660
+2022-05-09 15:33:32	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:33:32	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:32:43.579 / EndTime:2022-05-09 15:33:32.690
+2022-05-09 15:33:32	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:34:49	MenuID:07010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:33:55.709 / EndTime:2022-05-09 15:34:49.042
+2022-05-09 15:34:49	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:34:49	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:33:45.010 / EndTime:2022-05-09 15:34:49.079
+2022-05-09 15:34:49	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:35:45	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Frm / Count:1 / StartTime:2022-05-09 15:35:37.219 / EndTime:2022-05-09 15:35:45.908
+2022-05-09 15:35:45	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:36:36	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Sel / Count:1 / StartTime:2022-05-09 15:36:36.491 / EndTime:2022-05-09 15:36:36.847
+2022-05-09 15:36:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:36:40	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Sel / Count:1 / StartTime:2022-05-09 15:36:40.279 / EndTime:2022-05-09 15:36:40.540
+2022-05-09 15:36:40	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:36:40	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Del / Count:1 / StartTime:2022-05-09 15:36:39.742 / EndTime:2022-05-09 15:36:40.605
+2022-05-09 15:36:40	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:01	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Sel / Count:1 / StartTime:2022-05-09 15:38:01.077 / EndTime:2022-05-09 15:38:01.354
+2022-05-09 15:38:01	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:15	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Sel / Count:1 / StartTime:2022-05-09 15:38:14.781 / EndTime:2022-05-09 15:38:15.052
+2022-05-09 15:38:15	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:18	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Frm / Count:1 / StartTime:2022-05-09 15:36:36.325 / EndTime:2022-05-09 15:38:18.723
+2022-05-09 15:38:18	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:18	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:system / LogType:Frm / Count:1 / StartTime:2022-05-09 15:36:27.904 / EndTime:2022-05-09 15:38:18.749
+2022-05-09 15:38:18	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:35	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:38:34.708 / EndTime:2022-05-09 15:38:35.087
+2022-05-09 15:38:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:39	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:38:34.539 / EndTime:2022-05-09 15:38:39.709
+2022-05-09 15:38:39	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:38:39	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:38:25.799 / EndTime:2022-05-09 15:38:39.729
+2022-05-09 15:38:39	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:41:23	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:41:23.803 / EndTime:2022-05-09 15:41:23.968
+2022-05-09 15:41:23	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:42:46	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:42:45.158 / EndTime:2022-05-09 15:42:46.287
+2022-05-09 15:42:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:42:53	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:42:53.018 / EndTime:2022-05-09 15:42:53.506
+2022-05-09 15:42:53	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:42:53	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 15:42:51.260 / EndTime:2022-05-09 15:42:53.831
+2022-05-09 15:42:53	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:00	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:42:59.611 / EndTime:2022-05-09 15:43:00.100
+2022-05-09 15:43:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:00	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 15:42:57.894 / EndTime:2022-05-09 15:43:00.415
+2022-05-09 15:43:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:06	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:43:06.239 / EndTime:2022-05-09 15:43:06.704
+2022-05-09 15:43:06	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:06	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 15:43:03.833 / EndTime:2022-05-09 15:43:06.739
+2022-05-09 15:43:06	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:28	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:43:27.982 / EndTime:2022-05-09 15:43:28.457
+2022-05-09 15:43:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:28	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 15:43:26.261 / EndTime:2022-05-09 15:43:28.746
+2022-05-09 15:43:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:33	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:43:33.413 / EndTime:2022-05-09 15:43:33.943
+2022-05-09 15:43:33	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:43:34	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 15:43:31.741 / EndTime:2022-05-09 15:43:33.987
+2022-05-09 15:43:34	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:44:16	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:41:22.903 / EndTime:2022-05-09 15:44:16.167
+2022-05-09 15:44:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:44:16	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:41:15.579 / EndTime:2022-05-09 15:44:16.190
+2022-05-09 15:44:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:45:36	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:45:35.825 / EndTime:2022-05-09 15:45:36.030
+2022-05-09 15:45:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:45:36	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:45:36.056 / EndTime:2022-05-09 15:45:36.216
+2022-05-09 15:45:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:46:28	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:46:28.107 / EndTime:2022-05-09 15:46:28.516
+2022-05-09 15:46:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:46:28	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:46:28.566 / EndTime:2022-05-09 15:46:28.920
+2022-05-09 15:46:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:46:50	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:46:50.239 / EndTime:2022-05-09 15:46:50.566
+2022-05-09 15:46:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:46:50	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 15:46:50.072 / EndTime:2022-05-09 15:46:50.784
+2022-05-09 15:46:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:47:14	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:47:13.868 / EndTime:2022-05-09 15:47:14.207
+2022-05-09 15:47:14	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:47:14	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 15:47:13.685 / EndTime:2022-05-09 15:47:14.250
+2022-05-09 15:47:14	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:47:56	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:45:35.326 / EndTime:2022-05-09 15:47:56.912
+2022-05-09 15:47:56	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:47:56	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:45:28.709 / EndTime:2022-05-09 15:47:56.938
+2022-05-09 15:47:56	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:49:24	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:49:23.845 / EndTime:2022-05-09 15:49:24.300
+2022-05-09 15:49:24	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:49:24	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:49:24.346 / EndTime:2022-05-09 15:49:24.690
+2022-05-09 15:49:24	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:49:46	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:49:23.331 / EndTime:2022-05-09 15:49:46.775
+2022-05-09 15:49:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:49:46	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:49:15.642 / EndTime:2022-05-09 15:49:46.798
+2022-05-09 15:49:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:50:52	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:50:51.630 / EndTime:2022-05-09 15:50:52.003
+2022-05-09 15:50:52	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:50:52	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:50:52.045 / EndTime:2022-05-09 15:50:52.366
+2022-05-09 15:50:52	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:51:16	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:50:51.097 / EndTime:2022-05-09 15:51:16.323
+2022-05-09 15:51:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:51:16	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:50:40.336 / EndTime:2022-05-09 15:51:16.344
+2022-05-09 15:51:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:52:15	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:52:15.056 / EndTime:2022-05-09 15:52:15.414
+2022-05-09 15:52:15	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:52:15	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 15:52:15.460 / EndTime:2022-05-09 15:52:15.809
+2022-05-09 15:52:15	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:53:21	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:52:14.542 / EndTime:2022-05-09 15:53:21.733
+2022-05-09 15:53:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:53:21	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:52:06.218 / EndTime:2022-05-09 15:53:21.756
+2022-05-09 15:53:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:55:48	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:55:42.463 / EndTime:2022-05-09 15:55:48.672
+2022-05-09 15:55:48	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 15:55:48	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 15:55:35.743 / EndTime:2022-05-09 15:55:48.700
+2022-05-09 15:55:48	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:03:20	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:03:20.541 / EndTime:2022-05-09 16:03:20.959
+2022-05-09 16:03:20	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:03:21	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:03:21.005 / EndTime:2022-05-09 16:03:21.312
+2022-05-09 16:03:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:05:16	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:05:15.901 / EndTime:2022-05-09 16:05:16.088
+2022-05-09 16:05:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:06:01	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:03:20.040 / EndTime:2022-05-09 16:06:01.589
+2022-05-09 16:06:01	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:06:01	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:05:15.339 / EndTime:2022-05-09 16:06:01.612
+2022-05-09 16:06:01	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:06:01	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:03:09.472 / EndTime:2022-05-09 16:06:01.634
+2022-05-09 16:06:01	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:15:10	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:15:09.947 / EndTime:2022-05-09 16:15:10.113
+2022-05-09 16:15:10	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:15:42	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:15:42.284 / EndTime:2022-05-09 16:15:42.682
+2022-05-09 16:15:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:16:54	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:16:54.157 / EndTime:2022-05-09 16:16:54.536
+2022-05-09 16:16:54	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:16:54	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:16:52.070 / EndTime:2022-05-09 16:16:54.573
+2022-05-09 16:16:54	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:17:38	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:15:09.189 / EndTime:2022-05-09 16:17:38.190
+2022-05-09 16:17:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:17:38	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:15:03.571 / EndTime:2022-05-09 16:17:38.213
+2022-05-09 16:17:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:19:35	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:19:34.623 / EndTime:2022-05-09 16:19:34.997
+2022-05-09 16:19:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:19:45	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:19:33.892 / EndTime:2022-05-09 16:19:45.055
+2022-05-09 16:19:45	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:19:45	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:19:25.542 / EndTime:2022-05-09 16:19:45.077
+2022-05-09 16:19:45	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:20:24	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:20:24.022 / EndTime:2022-05-09 16:20:24.481
+2022-05-09 16:20:24	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:20:33	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:20:32.870 / EndTime:2022-05-09 16:20:33.251
+2022-05-09 16:20:33	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:20:33	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:20:31.274 / EndTime:2022-05-09 16:20:33.287
+2022-05-09 16:20:33	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:32:27	MenuID:01410 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:20:23.267 / EndTime:2022-05-09 16:32:27.890
+2022-05-09 16:32:27	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:32:27	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:20:15.530 / EndTime:2022-05-09 16:32:27.913
+2022-05-09 16:32:27	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:35:34	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:35:31.715 / EndTime:2022-05-09 16:35:34.812
+2022-05-09 16:35:34	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:35:38	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:35:31.315 / EndTime:2022-05-09 16:35:38.129
+2022-05-09 16:35:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:35:38	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:35:21.057 / EndTime:2022-05-09 16:35:38.155
+2022-05-09 16:35:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:36:16	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:36:16.269 / EndTime:2022-05-09 16:36:16.662
+2022-05-09 16:36:16	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:36:36	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:36:15.885 / EndTime:2022-05-09 16:36:36.416
+2022-05-09 16:36:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:36:36	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:36:10.407 / EndTime:2022-05-09 16:36:36.441
+2022-05-09 16:36:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:20	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:37:20.134 / EndTime:2022-05-09 16:37:20.594
+2022-05-09 16:37:20	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:23	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:37:23.572 / EndTime:2022-05-09 16:37:23.939
+2022-05-09 16:37:23	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:23	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:37:21.951 / EndTime:2022-05-09 16:37:23.977
+2022-05-09 16:37:23	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:35	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:37:35.556 / EndTime:2022-05-09 16:37:35.952
+2022-05-09 16:37:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:36	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 16:37:35.385 / EndTime:2022-05-09 16:37:36.245
+2022-05-09 16:37:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:42	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:37:42.068 / EndTime:2022-05-09 16:37:42.486
+2022-05-09 16:37:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:42	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 16:37:41.894 / EndTime:2022-05-09 16:37:42.526
+2022-05-09 16:37:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:50	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:37:19.745 / EndTime:2022-05-09 16:37:50.574
+2022-05-09 16:37:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:37:50	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:37:12.681 / EndTime:2022-05-09 16:37:50.600
+2022-05-09 16:37:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:38:41	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:38:41.388 / EndTime:2022-05-09 16:38:41.537
+2022-05-09 16:38:41	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:39:28	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:39:27.648 / EndTime:2022-05-09 16:39:28.459
+2022-05-09 16:39:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:40:21	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:40:21.148 / EndTime:2022-05-09 16:40:21.935
+2022-05-09 16:40:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:40:50	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:40:49.430 / EndTime:2022-05-09 16:40:50.201
+2022-05-09 16:40:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:40:51	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:38:41.018 / EndTime:2022-05-09 16:40:51.707
+2022-05-09 16:40:51	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:40:55	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:40:54.567 / EndTime:2022-05-09 16:40:55.380
+2022-05-09 16:40:55	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:41:35	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:40:54.241 / EndTime:2022-05-09 16:41:35.738
+2022-05-09 16:41:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:41:35	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:38:31.916 / EndTime:2022-05-09 16:41:35.763
+2022-05-09 16:41:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:44:42	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:44:13.598 / EndTime:2022-05-09 16:44:42.497
+2022-05-09 16:44:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:49:35	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:49:34.923 / EndTime:2022-05-09 16:49:35.362
+2022-05-09 16:49:35	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:49:47	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:49:47.474 / EndTime:2022-05-09 16:49:47.831
+2022-05-09 16:49:47	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:49:48	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:49:45.527 / EndTime:2022-05-09 16:49:48.037
+2022-05-09 16:49:48	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:49:59	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:49:58.677 / EndTime:2022-05-09 16:49:58.980
+2022-05-09 16:49:59	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:49:59	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 16:49:58.464 / EndTime:2022-05-09 16:49:59.186
+2022-05-09 16:49:59	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:50:04	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:50:04.108 / EndTime:2022-05-09 16:50:04.483
+2022-05-09 16:50:04	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:50:04	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 16:50:02.631 / EndTime:2022-05-09 16:50:04.501
+2022-05-09 16:50:04	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:50:09	MenuID:00530 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:44:13.230 / EndTime:2022-05-09 16:50:09.191
+2022-05-09 16:50:09	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:50:09	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:44:06.357 / EndTime:2022-05-09 16:50:09.211
+2022-05-09 16:50:09	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:51:38	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:51:38.184 / EndTime:2022-05-09 16:51:38.708
+2022-05-09 16:51:38	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:51:44	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:51:44.084 / EndTime:2022-05-09 16:51:44.545
+2022-05-09 16:51:44	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:51:44	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:51:42.291 / EndTime:2022-05-09 16:51:44.761
+2022-05-09 16:51:44	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:51:54	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:51:53.754 / EndTime:2022-05-09 16:51:54.209
+2022-05-09 16:51:54	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:51:54	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 16:51:53.592 / EndTime:2022-05-09 16:51:54.431
+2022-05-09 16:51:54	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:00	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:51:59.854 / EndTime:2022-05-09 16:52:00.283
+2022-05-09 16:52:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:00	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Del / Count:1 / StartTime:2022-05-09 16:51:59.689 / EndTime:2022-05-09 16:52:00.322
+2022-05-09 16:52:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:05	MenuID:01730 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:51:37.756 / EndTime:2022-05-09 16:52:05.406
+2022-05-09 16:52:05	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:05	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:51:29.629 / EndTime:2022-05-09 16:52:05.425
+2022-05-09 16:52:05	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:27	MenuID:02010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:52:26.622 / EndTime:2022-05-09 16:52:27.358
+2022-05-09 16:52:27	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:36	MenuID:02010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:52:25.640 / EndTime:2022-05-09 16:52:36.701
+2022-05-09 16:52:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:52:36	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:52:18.769 / EndTime:2022-05-09 16:52:36.723
+2022-05-09 16:52:36	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:54:33	MenuID:01510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:54:32.980 / EndTime:2022-05-09 16:54:33.356
+2022-05-09 16:54:33	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:54:46	MenuID:01510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:54:45.908 / EndTime:2022-05-09 16:54:46.263
+2022-05-09 16:54:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:54:46	MenuID:01510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:54:44.372 / EndTime:2022-05-09 16:54:46.479
+2022-05-09 16:54:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:55:00	MenuID:01510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:54:23.433 / EndTime:2022-05-09 16:55:00.346
+2022-05-09 16:55:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:55:00	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:54:10.879 / EndTime:2022-05-09 16:55:00.371
+2022-05-09 16:55:00	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:55:59	MenuID:01720 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:55:59.275 / EndTime:2022-05-09 16:55:59.737
+2022-05-09 16:55:59	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:56:04	MenuID:01720 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 16:56:04.338 / EndTime:2022-05-09 16:56:04.791
+2022-05-09 16:56:04	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:56:05	MenuID:01720 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 16:56:02.619 / EndTime:2022-05-09 16:56:05.012
+2022-05-09 16:56:05	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:56:20	MenuID:01720 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:55:58.734 / EndTime:2022-05-09 16:56:20.718
+2022-05-09 16:56:20	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 16:56:20	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 16:55:43.760 / EndTime:2022-05-09 16:56:20.745
+2022-05-09 16:56:20	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:05:42	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:05:37.213 / EndTime:2022-05-09 17:05:42.768
+2022-05-09 17:05:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:05:42	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:05:16.807 / EndTime:2022-05-09 17:05:42.799
+2022-05-09 17:05:42	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:07:12	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:07:12.244 / EndTime:2022-05-09 17:07:12.490
+2022-05-09 17:07:12	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:07:21	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:07:20.907 / EndTime:2022-05-09 17:07:21.094
+2022-05-09 17:07:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:07:21	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:07:21.138 / EndTime:2022-05-09 17:07:21.351
+2022-05-09 17:07:21	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:07:25	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:07:24.842 / EndTime:2022-05-09 17:07:25.044
+2022-05-09 17:07:25	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:07:25	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Ins / Count:1 / StartTime:2022-05-09 17:07:24.664 / EndTime:2022-05-09 17:07:25.068
+2022-05-09 17:07:25	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:02	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:08:02.738 / EndTime:2022-05-09 17:08:02.937
+2022-05-09 17:08:02	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:02	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 17:08:00.331 / EndTime:2022-05-09 17:08:02.959
+2022-05-09 17:08:02	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:11	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:08:11.051 / EndTime:2022-05-09 17:08:11.267
+2022-05-09 17:08:11	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:11	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 17:08:08.878 / EndTime:2022-05-09 17:08:11.289
+2022-05-09 17:08:11	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:17	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:07:11.427 / EndTime:2022-05-09 17:08:17.688
+2022-05-09 17:08:17	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:08:17	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:07:04.471 / EndTime:2022-05-09 17:08:17.713
+2022-05-09 17:08:17	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:10:46	MenuID:01610 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:09:27.450 / EndTime:2022-05-09 17:10:46.640
+2022-05-09 17:10:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:10:46	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:09:19.488 / EndTime:2022-05-09 17:10:46.670
+2022-05-09 17:10:46	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:11:28	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:11:27.611 / EndTime:2022-05-09 17:11:27.988
+2022-05-09 17:11:28	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:13:56	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:13:52.869 / EndTime:2022-05-09 17:13:56.310
+2022-05-09 17:13:56	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:17:44	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:17:41.958 / EndTime:2022-05-09 17:17:44.314
+2022-05-09 17:17:44	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:17:57	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:17:52.219 / EndTime:2022-05-09 17:17:57.443
+2022-05-09 17:17:57	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:18:11	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:18:11.547 / EndTime:2022-05-09 17:18:11.888
+2022-05-09 17:18:11	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:19:57	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:19:48.200 / EndTime:2022-05-09 17:19:57.843
+2022-05-09 17:19:57	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:19:57	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:19:49.912 / EndTime:2022-05-09 17:19:57.873
+2022-05-09 17:19:57	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:19:57	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:19:39.458 / EndTime:2022-05-09 17:19:57.896
+2022-05-09 17:19:57	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:21:02	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:21:02.103 / EndTime:2022-05-09 17:21:02.252
+2022-05-09 17:21:02	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:21:47	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:21:46.860 / EndTime:2022-05-09 17:21:47.322
+2022-05-09 17:21:47	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:21:53	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:21:53.049 / EndTime:2022-05-09 17:21:53.416
+2022-05-09 17:21:53	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:21:53	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 17:21:51.281 / EndTime:2022-05-09 17:21:53.448
+2022-05-09 17:21:53	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:22:18	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:22:17.962 / EndTime:2022-05-09 17:22:18.418
+2022-05-09 17:22:18	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:22:18	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Upd / Count:1 / StartTime:2022-05-09 17:22:16.260 / EndTime:2022-05-09 17:22:18.656
+2022-05-09 17:22:18	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:22:50	MenuID:01710 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:21:01.521 / EndTime:2022-05-09 17:22:50.654
+2022-05-09 17:22:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:22:50	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:20:54.493 / EndTime:2022-05-09 17:22:50.681
+2022-05-09 17:22:50	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:23:10	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:23:10.456 / EndTime:2022-05-09 17:23:10.968
+2022-05-09 17:23:10	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:23:33	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:23:32.967 / EndTime:2022-05-09 17:23:33.371
+2022-05-09 17:23:33	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:23:39	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:23:09.541 / EndTime:2022-05-09 17:23:39.648
+2022-05-09 17:23:39	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:23:39	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:23:00.333 / EndTime:2022-05-09 17:23:39.669
+2022-05-09 17:23:39	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:06	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:25:06.167 / EndTime:2022-05-09 17:25:06.651
+2022-05-09 17:25:06	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:15	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:25:14.595 / EndTime:2022-05-09 17:25:15.047
+2022-05-09 17:25:15	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:15	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Sel / Count:1 / StartTime:2022-05-09 17:25:15.081 / EndTime:2022-05-09 17:25:15.422
+2022-05-09 17:25:15	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:51	MenuID:00510 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:25:05.749 / EndTime:2022-05-09 17:25:51.088
+2022-05-09 17:25:51	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:51	MenuID:01310 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:25:14.104 / EndTime:2022-05-09 17:25:51.112
+2022-05-09 17:25:51	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.
+2022-05-09 17:25:51	MenuID:00000 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-05-09 17:24:58.617 / EndTime:2022-05-09 17:25:51.134
+2022-05-09 17:25:51	Message:@i_UserID은(는) 프로시저 xp_LogWriter의 매개 변수가 아닙니다.

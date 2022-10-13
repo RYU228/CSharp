@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_Glossary" targetNamespace="http://tempuri.org/DS_Glossary.xsd" xmlns:mstns="http://tempuri.org/DS_Glossary.xsd" xmlns="http://tempuri.org/DS_Glossary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_Glossary" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_Glossary" msprop:Generator_UserDSName="DS_Glossary">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DT_Glossary_Portrait" msprop:Generator_TableClassName="DT_Glossary_PortraitDataTable" msprop:Generator_TableVarName="tableDT_Glossary_Portrait" msprop:Generator_TablePropName="DT_Glossary_Portrait" msprop:Generator_RowDeletingName="DT_Glossary_PortraitRowDeleting" msprop:Generator_RowChangingName="DT_Glossary_PortraitRowChanging" msprop:Generator_RowEvHandlerName="DT_Glossary_PortraitRowChangeEventHandler" msprop:Generator_RowDeletedName="DT_Glossary_PortraitRowDeleted" msprop:Generator_UserTableName="DT_Glossary_Portrait" msprop:Generator_RowChangedName="DT_Glossary_PortraitRowChanged" msprop:Generator_RowEvArgName="DT_Glossary_PortraitRowChangeEvent" msprop:Generator_RowClassName="DT_Glossary_PortraitRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GlossaryCode" msprop:Generator_ColumnVarNameInTable="columnGlossaryCode" msprop:Generator_ColumnPropNameInRow="GlossaryCode" msprop:Generator_ColumnPropNameInTable="GlossaryCodeColumn" msprop:Generator_UserColumnName="GlossaryCode" type="xs:string" minOccurs="0" />
+              <xs:element name="GlossaryName" msprop:Generator_ColumnVarNameInTable="columnGlossaryName" msprop:Generator_ColumnPropNameInRow="GlossaryName" msprop:Generator_ColumnPropNameInTable="GlossaryNameColumn" msprop:Generator_UserColumnName="GlossaryName" type="xs:string" minOccurs="0" />
+              <xs:element name="HAlignName" msprop:Generator_ColumnVarNameInTable="columnHAlignName" msprop:Generator_ColumnPropNameInRow="HAlignName" msprop:Generator_ColumnPropNameInTable="HAlignNameColumn" msprop:Generator_UserColumnName="HAlignName" type="xs:string" minOccurs="0" />
+              <xs:element name="VAlignName" msprop:Generator_ColumnVarNameInTable="columnVAlignName" msprop:Generator_ColumnPropNameInRow="VAlignName" msprop:Generator_ColumnPropNameInTable="VAlignNameColumn" msprop:Generator_UserColumnName="VAlignName" type="xs:string" minOccurs="0" />
+              <xs:element name="FormatName" msprop:Generator_ColumnVarNameInTable="columnFormatName" msprop:Generator_ColumnPropNameInRow="FormatName" msprop:Generator_ColumnPropNameInTable="FormatNameColumn" msprop:Generator_UserColumnName="FormatName" type="xs:string" minOccurs="0" />
+              <xs:element name="FormatText" msprop:Generator_ColumnVarNameInTable="columnFormatText" msprop:Generator_ColumnPropNameInRow="FormatText" msprop:Generator_ColumnPropNameInTable="FormatTextColumn" msprop:Generator_UserColumnName="FormatText" type="xs:string" minOccurs="0" />
+              <xs:element name="UseClss" msprop:Generator_ColumnVarNameInTable="columnUseClss" msprop:Generator_ColumnPropNameInRow="UseClss" msprop:Generator_ColumnPropNameInTable="UseClssColumn" msprop:Generator_UserColumnName="UseClss" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

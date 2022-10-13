@@ -1,0 +1,341 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@1,Width=1@1,Height=1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseTextOptions">true</property>
+      </property>
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="WordWrap">Wrap</property>
+        <property name="HAlignment">Center</property>
+      </property>
+    </property>
+    <property name="HorzLine" iskey="true" value="HorzLine">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+      </property>
+      <property name="BackColor">100, 100, 100</property>
+    </property>
+    <property name="VertLine" iskey="true" value="VertLine">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+      </property>
+      <property name="BackColor">100, 100, 100</property>
+    </property>
+  </property>
+  <property name="OptionsCustomization" isnull="true" iskey="true">
+    <property name="AllowSort">false</property>
+  </property>
+  <property name="OptionsNavigation" isnull="true" iskey="true">
+    <property name="UseTabKey">false</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="EnableAppearanceFocusedCell">false</property>
+    <property name="EnableAppearanceHideSelection">false</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="BestFitMaxRowCount">35</property>
+    <property name="ColumnAutoWidth">false</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ShowGroupPanel">false</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">23</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Always</property>
+  <property name="RowHeight">20</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="Columns" iskey="true" value="9">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colDeleteButton</property>
+      <property name="Caption">삭제</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">DeleteButton</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">40</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">40</property>
+      <property name="MaxWidth">40</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colFindButton</property>
+      <property name="Caption">검색</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">FindButton</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">40</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">40</property>
+      <property name="MaxWidth">40</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colItemCode</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">품목코드</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">ItemCode</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">80</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">80</property>
+      <property name="MaxWidth">80</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colItemName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">품목명</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">ItemName</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">250</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">250</property>
+      <property name="MaxWidth">250</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colOrdPrice</property>
+      <property name="Caption">발주단가</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">OrdPrice</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">100</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">N2</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="MinWidth">100</property>
+      <property name="MaxWidth">100</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colOrdQty</property>
+      <property name="Caption">발주수량</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">OrdQty</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">80</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">N1</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="MinWidth">80</property>
+      <property name="MaxWidth">80</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colOrdAmt</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">발주금액</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">OrdAmt</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">120</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">N2</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="MinWidth">120</property>
+      <property name="MaxWidth">120</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colOrdType</property>
+      <property name="Caption">발주구분</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">OrdType</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">75</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">colRemark</property>
+      <property name="Caption">비고</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">Remark</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="SortMode">DisplayText</property>
+      <property name="FilterMode">DisplayText</property>
+      <property name="Width">75</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="UnboundDataTypeName" />
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">grvInput</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

@@ -1,0 +1,11 @@
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.csproj.AssemblyReference.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.FORMS.frmBase.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.FORMS.frmFindAddress.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.FORMS.frmFindValue.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.FORMS.frmWaitForm.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.Properties.Resources.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.csproj.GenerateResource.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.dll.licenses
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSLIB.csproj.CoreCompileInputs.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.dll
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.pdb

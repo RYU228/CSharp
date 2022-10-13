@@ -1,0 +1,10 @@
+2022-05-10 09:43:50	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 PersonID:20220200 / LogType:Frm / Count:1 / StartTime:2022-05-10 09:43:27.471 / EndTime:2022-05-10 09:43:50.037
+2022-05-10 09:43:50	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01010, DS-KHS, 192.168.56.1, 20220200, Frm, 05 10 2022  9:43AM)입니다.[xp_
+2022-05-10 09:44:51	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 PersonID:20220200 / LogType:Frm / Count:1 / StartTime:2022-05-10 09:44:21.812 / EndTime:2022-05-10 09:44:51.429
+2022-05-10 09:44:51	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01010, DS-KHS, 192.168.56.1, 20220200, Frm, 05 10 2022  9:44AM)입니다.[xp_
+2022-05-10 09:48:19	MenuID:01010 / ComputerName:DS-KHS / IP : 192.168.56.1 PersonID:20220200 / LogType:Frm / Count:1 / StartTime:2022-05-10 09:45:53.167 / EndTime:2022-05-10 09:48:19.740
+2022-05-10 09:48:19	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01010, DS-KHS, 192.168.56.1, 20220200, Frm, 05 10 2022  9:45AM)입니다.[xp_
+2022-05-10 10:22:36	MenuID:01210 / ComputerName:DS-KHS / IP : 192.168.56.1 PersonID:20220200 / LogType:Frm / Count:1 / StartTime:2022-05-10 10:21:13.482 / EndTime:2022-05-10 10:22:36.115
+2022-05-10 10:22:36	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01210, DS-KHS, 192.168.56.1, 20220200, Frm, 05 10 2022 10:21AM)입니다.[xp_
+2022-05-10 10:23:30	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 PersonID:20220200 / LogType:Frm / Count:1 / StartTime:2022-05-10 10:23:10.675 / EndTime:2022-05-10 10:23:30.672
+2022-05-10 10:23:30	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01110, DS-KHS, 192.168.56.1, 20220200, Frm, 05 10 2022 10:23AM)입니다.[xp_

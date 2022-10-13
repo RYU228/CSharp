@@ -1,0 +1,11 @@
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSCA.csproj.AssemblyReference.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.frmBase.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.frmFindAddress.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.frmFindValue.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.frmWaitForm.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.Properties.Resources.resources
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSCA.csproj.GenerateResource.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.dll.licenses
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DSCA.csproj.CoreCompileInputs.cache
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.dll
+G:\User\Source\Duson\DusonLibrary\obj\Debug\DusonLibrary.pdb

@@ -1,0 +1,2 @@
+2022-04-25 16:46:48	MenuID:04110 / ComputerName:DS-KHS / IP : 192.168.0.94 UserID:admin / LogType:Frm / Count:1 / StartTime:2022-04-25 16:46:35.360 / EndTime:2022-04-25 16:46:48.620
+2022-04-25 16:46:48	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (04110, DS-KHS, 192.168.0.94, admin, Frm, 04 25 2022  4:46PM)입니다.[xp_Log

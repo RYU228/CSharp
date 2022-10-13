@@ -1,0 +1,22 @@
+2022-05-04 09:20:48	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 09:19:08.746 / EndTime:2022-05-04 09:20:48.863
+2022-05-04 09:20:48	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  9:19AM)입니다.[xp
+2022-05-04 12:18:41	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 12:18:12.777 / EndTime:2022-05-04 12:18:41.401
+2022-05-04 12:18:41	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022 12:18PM)입니다.[xp
+2022-05-04 12:37:28	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 12:36:45.963 / EndTime:2022-05-04 12:37:28.102
+2022-05-04 12:37:28	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022 12:36PM)입니다.[xp
+2022-05-04 12:38:11	MenuID:00520 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 12:37:29.920 / EndTime:2022-05-04 12:38:11.466
+2022-05-04 12:38:11	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00520, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022 12:37PM)입니다.[xp
+2022-05-04 14:01:41	MenuID:01110 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 13:58:14.673 / EndTime:2022-05-04 14:01:41.621
+2022-05-04 14:01:41	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (01110, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  1:58PM)입니다.[xp
+2022-05-04 14:14:21	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 14:11:56.368 / EndTime:2022-05-04 14:14:21.737
+2022-05-04 14:14:21	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  2:11PM)입니다.[xp
+2022-05-04 14:45:16	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 14:40:07.928 / EndTime:2022-05-04 14:45:16.869
+2022-05-04 14:45:16	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  2:40PM)입니다.[xp
+2022-05-04 14:49:04	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 14:40:07.928 / EndTime:2022-05-04 14:49:04.855
+2022-05-04 14:49:04	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  2:40PM)입니다.[xp
+2022-05-04 14:49:08	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 14:40:07.928 / EndTime:2022-05-04 14:49:08.502
+2022-05-04 14:49:08	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  2:40PM)입니다.[xp
+2022-05-04 14:52:46	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 14:52:05.195 / EndTime:2022-05-04 14:52:46.989
+2022-05-04 14:52:46	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  2:52PM)입니다.[xp
+2022-05-04 15:01:18	MenuID:00505 / ComputerName:DS-KHS / IP : 192.168.56.1 UserID:202202001 / LogType:Frm / Count:1 / StartTime:2022-05-04 15:00:37.806 / EndTime:2022-05-04 15:01:18.980
+2022-05-04 15:01:18	Message:PRIMARY KEY 제약 조건 'PK_LogRawData'을(를) 위반했습니다. 개체 'dbo.LogRawData'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (00505, DS-KHS, 192.168.56.1, 202202001, Frm, 05  4 2022  3:00PM)입니다.[xp
